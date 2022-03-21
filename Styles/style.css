@@ -1,0 +1,20 @@
+.navbar {
+  position: fixed;
+  overflow: hidden;
+}
+.navbar a {
+  display: block;
+  font-size: 1.1em !important;
+  font-family: "Oswald", sans-serif;
+  color: navy !important;
+  letter-spacing: 2px;
+  font-weight: 500;
+  text-decoration: none;
+  outline: none;
+  padding: 20px 30px;
+  margin: 3px;
+  border: 3px solid rgba(0, 0, 128, 0);
+}
+.navbar a:hover {
+  border: 3px solid navy;
+}
