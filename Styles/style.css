@@ -111,3 +111,22 @@
   width: 100%;
   height: 100%;
 }
+
+/* Image View Page  */
+
+.imageView {
+  width: 100%;
+  /* height: 46.875rem; */
+}
+
+.description {
+  margin-left: 100px;
+}
+
+.description h5 {
+  margin-top: 20px;
+}
+
+.description p {
+  margin-top: 20px;
+}
