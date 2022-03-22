@@ -93,3 +93,21 @@
   text-decoration: line-through;
   color: gray;
 }
+
+/* Look Book  */
+
+.lookBookCard {
+  padding-top: 0px;
+  padding-right: 3.5vw;
+  padding-bottom: 1rem;
+}
+
+.lookBookCard:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.lookBookImg {
+  width: 100%;
+  height: 100%;
+}
