@@ -9,3 +9,11 @@ window.onscroll = function () {
         myNav.classList.remove("scroll");
     }
 };
+
+// Image VIew Page 
+
+$(document).ready(function() {
+    $('img.thumbnail').click(function() {
+        window.location.href = this.id + '.html';
+    });
+});
